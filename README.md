@@ -1,5 +1,5 @@
 # LIB2CPP_AUTO_METOHD
-*For test hook function symbol to get pointer function in Unity.*
+*For test hook the function symbol to get a pointer function in Unity.*
 
 # initial 
 TARIL2CppAttach();
